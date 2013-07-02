@@ -1,0 +1,11 @@
+.idea
+*.iml
+tatami.iml
+tatami.ipr
+tatami.iws
+.classpath
+.project
+.settings
+target
+.merge_file*
+.DS_Store
