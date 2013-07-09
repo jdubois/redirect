@@ -16,7 +16,7 @@ public class RedirectServlet  extends HttpServlet {
 
     private final Logger log = LoggerFactory.getLogger(RedirectServlet.class);
 
-    private static final String REDIRECT_URL = "http://www.google.com";
+    private static final String REDIRECT_URL = "http://app.tatamisoft.com/";
 
     @Override
     public void init(ServletConfig config) throws ServletException {
